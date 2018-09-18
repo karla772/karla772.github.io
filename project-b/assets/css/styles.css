@@ -1,14 +1,12 @@
-body {
-    background: #ffa;
-    font-size: 30p;
-
-}
-img { width: 280px;
+body{
+    background: #f00;
 }
 
-.header {
-    background: #6a53cc;
+.column{
+    background: #ff0;
 }
-.purple {
-    background: #ccc;
+.wrapper{
+    width:960px;
+    margin: 0 auto 0 auto;
+    background: #0f0;
 }
