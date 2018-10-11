@@ -1,20 +1,14 @@
 body {
     background:
-    font-size 50px; color: #ffA500
+    font-size 60px; color: rgb(255, 115, 0)
 }
 
 .bridge img{
-    width: 30%;
-    margin-left: 30%;
+    width: 40%;
+    margin-left: 40%;
     
 }
 
 .bridge{
-    background-color: #ffA500;
     padding:20px;
-}
-
-.box{
-    background-color:blue;
-    height: 300px;
 }
