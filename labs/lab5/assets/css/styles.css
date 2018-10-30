@@ -47,6 +47,7 @@ nav-item:hover, .active {
 .red { background: #FF0000; }
 .blue { background: #0000FF; }
 .sol-lewitt { background: url('../img/sol-lewitt.gif')}
+.about { background: #ffa; }
 
 .slay { 
   position: fixed;
@@ -72,4 +73,9 @@ nav-item:hover, .active {
   position: absolute;
   top: 40px;
   right: 20px;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
 }
