@@ -1,25 +1,24 @@
+
 $('.nav-item').click(function() {
-  var button_name = $(this).data('button');
+  var target = $(this);
 
-  $('.about-text').addClass('.hide');
-  $('.nav-item').removeClass('active');
-  $('.content').attr('class', 'column content');
-  $(this).addClass('active');
-  $('.content').addClass('button-name');
-
-  if (button-name == 'beyonce') {
-$('.slay').removeClass('hide');
-$('audio')[0].play();
-} else if (button-name == about) {
-$('.about-text').removeClass('.hide');
-} else {
- 
-}
-
+  if ($ (target).html() == 'apple') {
+  $('.apple').removeclass('hide');
+  } else if (target == 'nike'){
+    $('.nike'). removeclass ('hide');
+   } else if (target == 'disney') {
+      $('.disney').removeclass ('hide');
+    } else if (target == 'vogue'){
+        $('.vogue').removeclass('hide');
+      }
 });
 
-$('.close').click(function() {
-  $('.slay').addClass('hide')
-  $('audio')[0].pause();
-  $('.nav-item').removeClass('active');
+$('nav-item').click(function() {
+  var target = $(this).hmtl ();
+  var image_to_show = '<img src="assets/img/' + img + '"/></div';
+
+  console.log(target);
+
+  $('.content').append(target);
+  $('.content').prepend(image_to_show);
 });
