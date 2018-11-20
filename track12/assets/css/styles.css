@@ -1,15 +1,22 @@
 body {
-        background:
-        margin-top
-        font-size 60px; color: rgb(255, 115, 0)
-        font-family 'Francois One', sans-serif;
-    }
+    background:
+    margin-top
+    font-size 60px; color: rgb(255, 115, 0)
+    font-family 'Francois One', sans-serif;
+}
+
+.blurry img{
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 5%;
     
-    .ella img{
-        width: 50%;
-        margin-left: 40%;
-        
-    }
+}
+
+.box{
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 30%;
+}
     
     
 
