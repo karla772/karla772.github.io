@@ -1,15 +1,21 @@
 body {
-        background:
-        margin-top
-        font-size 60px; color: rgb(255, 115, 0)
-        font-family 'Francois One', sans-serif;
-    }
+    background:
+    margin-top
+    font-size 60px; color: rgb(255, 115, 0)
+    font-family 'Francois One', sans-serif;
+}
+
+.box{
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-right: 30%;
+}
+
+.siobhan2 img{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 20%;
     
-    .ella img{
-        width: 50%;
-        margin-left: 40%;
-        
-    }
-    
-    
+}
+
 
