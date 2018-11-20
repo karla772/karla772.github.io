@@ -1,7 +1,7 @@
 body {
-    background:
-    margin-top
-    font-size 60px; color: rgb(255, 115, 0)
+    background: #ffff;
+    font-size: 20px; 
+    color: rgb(255, 115, 0)
     font-family 'Francois One', sans-serif;
 
 
@@ -16,4 +16,11 @@ body {
 
 .bridge{
     padding:40px;
+}
+
+.arrow{
+    width: 1%;
+    height: 20%;
+    margin-left: 5%;
+
 }
