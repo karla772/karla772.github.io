@@ -1,17 +1,18 @@
 body {
-        background:
-        font-size 60px; color: rgb(255, 115, 0)
-        font-family 'Francois One', sans-serif;
-    }
+    background: #fff;
+    font-size: 30px; 
+    color: rgb(255, 115, 0);
+    font-family: 'Francois One', sans-serif;
+}
     
-    .ella img{
-        width: 70%;
-        margin-right: 10%;    
-    }
+.ella img{
+    width: 70%;
+    margin-right: 10%;    
+}
 
-    .box{
-        margin-left: 20%;
-    }
+.box{
+    margin-left: 20%;
+}
     
     
 
