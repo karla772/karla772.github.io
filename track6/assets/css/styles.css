@@ -6,12 +6,14 @@ body {
     }
 
     .box{
-        margin-right: 20%;
+        margin-left: 10%;
+        margin-top: 20%;
     }
     
     .friends img{
         width: 50%;
-        margin-left: 10%;
+        margin-left: 20%;
+        margin-top: 15%;
         
     }
     
