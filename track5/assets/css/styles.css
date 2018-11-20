@@ -6,8 +6,11 @@ body {
     
     .ella img{
         width: 70%;
-        margin-right: 10%;
-        
+        margin-right: 10%;    
+    }
+
+    .box{
+        margin-left: 20%;
     }
     
     
