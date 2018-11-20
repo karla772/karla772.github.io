@@ -4,10 +4,16 @@ body {
         font-size 60px; color: rgb(255, 115, 0)
         font-family 'Francois One', sans-serif;
     }
+
+    .box{
+        margin-left: 5%;
+        margin-top: 5%;
+        margin-right: 30%;
+    }
     
-    .ella img{
+    .legs img{
         width: 50%;
-        margin-left: 40%;
+        margin-left: 20%;
         
     }
     
