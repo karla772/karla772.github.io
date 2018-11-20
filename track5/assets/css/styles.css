@@ -1,6 +1,6 @@
 body {
     background: #fff;
-    font-size: 30px; 
+    font-size: 20px; 
     color: rgb(255, 115, 0);
     font-family: 'Francois One', sans-serif;
 }
@@ -12,6 +12,12 @@ body {
 
 .box{
     margin-left: 20%;
+}
+
+.arrow{
+    width: 20%;
+    margin-left: 70%;
+
 }
     
     
