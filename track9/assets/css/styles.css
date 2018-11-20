@@ -1,15 +1,10 @@
 body {
-        background:
-        margin-top
-        font-size 60px; color: rgb(255, 115, 0)
-        font-family 'Francois One', sans-serif;
-    }
-    
-    .ella img{
-        width: 50%;
-        margin-left: 40%;
-        
-    }
-    
-    
+    background-color: rgb(255, 115, 0)
+}
 
+.mary2 img{
+    width: 80%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+}
