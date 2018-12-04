@@ -1,8 +1,5 @@
 body {
-    background:
-    margin-top
-    font-size 60px; color: rgb(255, 115, 0)
-    font-family 'Francois One', sans-serif;
+    background:  rgb(255, 115, 0);
 }
 
 .blurry img{
@@ -11,11 +8,5 @@ body {
     margin-top: 5%;
     
 }
-
-.box{
-    margin-left: 5%;
-    margin-right: 5%;
-}
-    
     
 

@@ -1,14 +1,13 @@
 
     body {
-        background:
-        margin-top
-        font-size 60px; color: rgb(255, 115, 0)
-        font-family 'Francois One', sans-serif;
+        background: #ffff;
+        font-size: 20px; color: rgb(255, 115, 0);
+        font-family: 'Francois One', sans-serif;
     }
     
     .mary3 img{
         width: 60%;
-        margin-left: 20%;
+        margin-left: 25%;
         margin-top: 5%;
         
     }
