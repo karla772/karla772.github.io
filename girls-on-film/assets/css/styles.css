@@ -4,21 +4,20 @@ body {
 }
 
 .title{
-    font-size: 80px;
+    font-size: 100px;
     color: #fff;
     font-family: 'Francois One', sans-serif;
     
 }
 
 .section{
-    font-size: 80px;
+    font-size: 20px;
     color: #fff;
     font-family: 'Francois One', sans-serif;
+    margin-top: 40px;
+    margin-left: 950px;
 }
 
-.arrow{
-    width: 1%;
-    height: 20%;
-    margin-left: 5%;
-
+.next{
+    margin-top: 80px;
 }
