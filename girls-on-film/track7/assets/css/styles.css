@@ -1,0 +1,23 @@
+body {
+        background: #ffff;
+        font-size: 20px; color: rgb(255, 115, 0);
+        font-family: 'Francois One', sans-serif;
+    }
+    
+    .wine img{
+        width: 40%;
+        margin-left: 10%;
+        margin-top: 5%;
+        
+    }
+
+    .box{
+        margin-left: 30%;
+        margin-top: 10%;
+        margin-right: 5%;
+    }
+
+
+    
+    
+

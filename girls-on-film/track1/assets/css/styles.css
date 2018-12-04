@@ -1,0 +1,23 @@
+body {
+    background: #fff;
+    font-size: 20px; 
+    color: rgb(255, 115, 0);
+    font-family: 'Francois One', sans-serif;
+}
+
+.bridge img{
+    width: 50%;
+    margin-left: 40%;
+    
+}
+
+.bridge{
+    padding:40px;
+}
+
+.arrow{
+    width: 1%;
+    height: 20%;
+    margin-left: 5%;
+
+}
