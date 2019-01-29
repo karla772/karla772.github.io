@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <title>Class Exercise 1: Navigation</title>
+</head>
+<body>
+
+  <div>
+    <h1>Middle Plane</h1>
+    <h2><a href="http://middleplane.com/" target="_blank">middleplane.com</a></h2>
+    <img src="assets/imgs/middleplane.jpg" alt="Snapshot of middleplane">
+    <ul>
+      <li>This website advertises an art magazine called Middle Plane</li>
+      <li>This website contains a video background of a person flipping through the magazine, with type indicating the issue, a "next" button, and links to buy and contact. </li>
+      <li>This website's navigation seems simple, but the fact that the first issue is labeled "issue 0" and that the "next" button leads to a page with only a "previous" option 
+    leads to confusion when navigating. "Buy" and "contact" pages are styled very differently, leading to a lack of cohesion between subpages of the site. However, this is a Brutalist website, 
+    so this is probably intentional.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h1>Yale University School of Art</h1>
+    <h2><a href="art.yale.edu/" target="_blank">art.yale.edu</a></h2>
+    <img src="assets/imgs/yaleart.png" alt="Snapshot of yale art">
+    <ul>
+      <li>This website represents Yale's school of art </li>
+      <li>This website contains information about the program in a menu to the left of the screen, and many moving graphics.</li>
+      <li>This website has very intuitive and simple navigation. All jarring elements come from the design of the motion graphics, which are the central
+      focus of the sit's visuals but don't hinder navigation.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h1>Suzanne Collins Books</h1>
+    <h2><a href="www.suzannecollinsbooks.com" target="_blank">suzannecollinsbooks.com</a></h2>
+    <img src="assets/imgs/suzannecollins.png" alt="Snapshot of Suzanne Collins Books">
+    <ul>
+      <li>This website represents Suzanne Collins, writer of the Hunger Games, and her work.</li>
+      <li>This website contains a heading, photo of Collins and her books, and selected reviews in a side column.</li>
+      <li>This website has clear navigation to pages for works, biography, and interviews, but the antiquated and unstyled visuals are distractingly ugly and detract from the experience.</li>
+    </ul>
+  </div>
+</body>
+</html>
