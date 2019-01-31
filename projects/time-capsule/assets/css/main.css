@@ -1,19 +1,18 @@
-
-  .prayer {
-    margin-top: 10px;
-    margin-left: 10px;
-    width: 33.33%;
-    padding: 10px;
-  }
-
-  .punk {
+.punk {
     margin-left: 10px;
     width: 20%;
     padding: 25px;
   }
 
+  .prayer {
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 33.33%;
+    padding: 30px;
+  }
+
   .tompkins {
-    margin-left: 5px;
+    margin-left: 20px;
     padding: 20px;
     width: 1%;
   }
