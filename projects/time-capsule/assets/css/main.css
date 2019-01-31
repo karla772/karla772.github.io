@@ -19,22 +19,21 @@
   }
 
   .postcard {
-    width: 60%;
-    padding:20px;
-
+    width: 30%;
+    padding: 20px;
   }
 
   .louvre {
-    width: 40%;
+    width: 30%;
     padding: 20px;
-
-
   }
 
   .vintage {
-
-
+    width: 80%;
+    padding: 20px;
   }
+
+  
 
 
 
