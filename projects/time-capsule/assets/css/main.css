@@ -22,7 +22,7 @@
 
   .postcard {
     margin-left: 80px;
-    margin-top: 40px;
+    margin-top: 90px;
     width: 30%;
     padding: 20px;
   }
@@ -38,14 +38,12 @@
   }
 
   .necklaces {
-    margin-left: 50%;
-    width: 90%;
+    margin-left: 10%;
     padding: 10%;
   }
 
   .painting {
     padding: 20%;
-
   }
 
   .bags {
