@@ -38,16 +38,17 @@
     padding: 20px;
   }
 
-  
+  .film {
+    margin-top: 100px;
+    padding: 5px;
+  }
 
   .painting {
     margin-left: 60px;
     padding: 20%;
   }
 
-  .bags {
-    
-  }
+ 
 
   .film {
     margin-top: 100px;
