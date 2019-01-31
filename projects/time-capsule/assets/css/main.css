@@ -21,13 +21,14 @@
   }
 
   .postcard {
+    margin-left: 80px;
     width: 30%;
     padding: 20px;
   }
 
   .louvre {
     width: 30%;
-    padding: 20px;
+    padding: 60px;
   }
 
   .vintage {
