@@ -33,9 +33,17 @@
   }
 
   .vintage {
-    margin-left: 100px;
+    margin-left: 50px;
     width: 80%;
     padding: 20px;
+  }
+
+  .blackout {
+    padding: 20px;
+  }
+
+  .france {
+    
   }
 
   .film {
@@ -46,7 +54,10 @@
   .painting {
     margin-left: 20px;
     padding: 10%;
+    padding-top: 20%;
   }
+
+
 
  
 
