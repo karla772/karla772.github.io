@@ -39,12 +39,13 @@
   }
 
   .film {
-    padding-top: 100px;
+    margin-left: 10px;
+    padding-top: 80px;
   }
 
   .painting {
-    margin-left: 60px;
-    padding: 20%;
+    margin-left: 20px;
+    padding: 10%;
   }
 
  
