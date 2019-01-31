@@ -1,12 +1,22 @@
 
-  .column {
-    float: left;
+  .prayer {
+    margin-top: 10px;
+    margin-left: 10px;
     width: 33.33%;
     padding: 5px;
   }
 
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
+  .punk {
+    margin-left: 10px;
+    width: 33.33%;
+    padding: 10px;
   }
+
+  .tompkins {
+    margin-left: 10px;
+    width: 40%;
+    
+
+
+  }
+
