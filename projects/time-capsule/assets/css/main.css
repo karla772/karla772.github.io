@@ -1,4 +1,5 @@
 .punk {
+  margin-top: 10px;
     margin-left: 50px;
     width: 20%;
     padding: 25px;
@@ -13,6 +14,7 @@
   }
 
   .tompkins {
+    margin-top: 10px;
     margin-left: 20px;
     padding: 20px;
     width: 1%;
