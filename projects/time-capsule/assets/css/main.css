@@ -22,7 +22,7 @@
 
   .postcard {
     margin-left: 80px;
-    margin-top: 90px;
+    padding-top: 30px;
     width: 30%;
     padding: 20px;
   }
@@ -33,9 +33,9 @@
   }
 
   .vintage {
-    margin-left: 30px;
+    margin-left: 10px;
     width: 80%;
-    padding: 20px;
+    padding: 15px;
   }
 
   .blackout {
