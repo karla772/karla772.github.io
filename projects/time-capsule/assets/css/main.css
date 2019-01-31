@@ -46,14 +46,15 @@
   .france {
     padding-left: 40px;
     padding-right: 30px;
-    margin-left: 150px;
+    margin-left: 100px;
+    padding-top: 20px;
 
   }
 
   .film {
     margin-left: 10px;
     padding-top: 80px;
-    padding: 20px;
+    padding-left: 30px;
   }
 
   .flowers {
