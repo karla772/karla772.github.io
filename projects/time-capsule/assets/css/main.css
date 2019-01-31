@@ -8,12 +8,33 @@
 
   .punk {
     margin-left: 10px;
-    width: 33.33%;
+    width: 20%;
     padding: 10px;
   }
 
   .tompkins {
     margin-left: 10px;
-    width: 10%;
+    padding: 15px;
+    width: 4%;
   }
+
+  .postcard {
+    width: 60%;
+    padding:20px;
+
+  }
+
+  .louvre {
+    width: 40%;
+    padding: 20px;
+
+
+  }
+
+  .vintage {
+
+
+  }
+
+
 
