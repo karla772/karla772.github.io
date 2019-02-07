@@ -2,3 +2,10 @@
   display: flex;
   justify-content: center;
 }
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  outline: blue;
+  background-color: blue;
+}
