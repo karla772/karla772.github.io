@@ -1,0 +1,18 @@
+.content {
+  font-family: ariel;
+  padding: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.interact {
+  font-family: ariel;
+  font-style: italic;
+  transition: all 5s backward;
+}
+
+.words {
+  font-style: italic;
+  transition: all 10s ease;
+}
