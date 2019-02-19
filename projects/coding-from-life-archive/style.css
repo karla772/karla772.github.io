@@ -3,12 +3,14 @@ body {
 }
 
 .container {
+  margin-top: 500px;
   width: 500px;
   height: 2000px;
- 
   margin: 30px auto;
+  padding: 30px;
   position: relative;
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
   align-items: center;
 
@@ -16,8 +18,9 @@ body {
 .heading {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
-  color: mediumorchid;
+  color: mediumorchid; 
 }
+
 
 .ul {
   font-family: 'Roboto', sans-serif;
