@@ -1,0 +1,72 @@
+.marquee1 {
+  font-family:"Cheltenham W01 Roman";
+  -webkit-marquee: auto medium infinite scroll normal; 
+overflow-x: -webkit-marquee;
+}
+
+.marquee1 {
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+}
+
+.marquee2 {
+  font-family: "Cheltenham W01 Italic";
+  font-size: 36pt;
+}
+
+.marquee3 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee4 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee5 {
+  font-family: "Cheltenham W01 Italic";
+}
+
+.marquee6 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee7 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee8 {
+  font-family: "Cheltenham W01 Italic";
+}
+
+.marquee9 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee10 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee11 {
+  font-family: "Cheltenham W01 Italic";
+}
+
+.marquee12 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee13 {
+  font-family: "Cheltenham W01 Roman";
+}
+
+.marquee14 {
+  font-family: "Cheltenham W01 Italic";
+}
+
+.marquee15 {
+  font-family: "Cheltenham W01 Roman";
+}
+
