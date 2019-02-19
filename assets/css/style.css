@@ -1,6 +1,10 @@
 .body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   background-color: lavender;
     font-family: 'Source Serif Pro', serif;
+    font-size: 18pt;
     color: orangered;
 
 }
