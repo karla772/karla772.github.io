@@ -1,0 +1,25 @@
+body {
+  background-color: papayawhip;
+}
+
+.container {
+  width: 500px;
+  height: 2000px;
+ 
+  margin: 30px auto;
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+
+.heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: mediumorchid;
+}
+
+.ul {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
