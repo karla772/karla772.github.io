@@ -1,72 +1,302 @@
-.marquee1 {
-  font-family:"Cheltenham W01 Roman";
-  -webkit-marquee: auto medium infinite scroll normal; 
-overflow-x: -webkit-marquee;
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=7a104b48-217c-4b65-a862-f965531e4d16");
+@font-face{
+    font-family:"Cheltenham W01 Roman";
+    src:url("fonts/f3a21444-56aa-4ae6-bc95-e88c03895a5e.eot?#iefix");
+    src:url("fonts/f3a21444-56aa-4ae6-bc95-e88c03895a5e.eot?#iefix") format("eot"),url("fonts/fa8bb3b9-fb50-475b-ba91-a780f34a37ca.woff2") format("woff2"),url("fonts/f644507a-8781-43a9-88a9-d593b404982f.woff") format("woff"),url("fonts/8cd370f4-c422-4106-bbc6-259a406437b5.ttf") format("truetype");
+}
+@font-face{
+    font-family:"Cheltenham W01 Italic";
+    src:url("fonts/c21bb51f-ba86-4b57-8b7c-a0facd426dc3.eot?#iefix");
+    src:url("fonts/c21bb51f-ba86-4b57-8b7c-a0facd426dc3.eot?#iefix") format("eot"),url("fonts/20471c31-5f7c-4f80-b508-e9c940984938.woff2") format("woff2"),url("fonts/00fc6228-8e72-4be7-a3e1-325c9e199e1c.woff") format("woff"),url("fonts/84cb102e-923a-4000-80dc-09f39f86f1b7.ttf") format("truetype");
+}
+
+@keyframes marquee {
+  0%   { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
 }
 
 .marquee1 {
+  font-family:"Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
   height:200px;
   width:400px;
   font-family: "Cheltenham W01 Roman";
   font-size: 14px;
   color: #000000;
   border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee2 {
-  font-family: "Cheltenham W01 Italic";
-  font-size: 36pt;
+  font-family:"Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee3 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee4 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee5 {
   font-family: "Cheltenham W01 Italic";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee6 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee7 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee8 {
   font-family: "Cheltenham W01 Italic";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee9 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee10 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee11 {
   font-family: "Cheltenham W01 Italic";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee12 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee13 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee14 {
   font-family: "Cheltenham W01 Italic";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
 .marquee15 {
   font-family: "Cheltenham W01 Roman";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  line-height: 30px;
+  height:30px;
+  width: 100%;
+  white-space: nowrap;
+  height:200px;
+  width:400px;
+  font-family: "Cheltenham W01 Roman";
+  font-size: 14px;
+  color: #000000;
+  border-width: 4;
+  animation: marquee 15s linear infinite;
 }
 
