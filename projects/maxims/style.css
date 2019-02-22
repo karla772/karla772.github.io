@@ -30,7 +30,7 @@
   height: 200px;
   width: 100%;
   font-family: "Cheltenham W01 Roman";
-  font-size: 45px;
+  font-size: 55px;
   color: #000000;
   border-width: 4;
   animation: marquee 15s linear infinite;
@@ -60,7 +60,7 @@
 .marquee3 {
   font-family: "Cheltenham W01 Roman";
   position: absolute;
-  margin-bottom: 0px;
+  margin-bottom: -120px;
   top: 60;
   bottom: 0;
   left: 0;
@@ -72,7 +72,7 @@
   height:200px;
   width:400px;
   font-family: "Cheltenham W01 Roman";
-  font-size: 18px;
+  font-size: 24px;
   color: #000000;
   border-width: 4;
   animation: marquee 15s linear infinite;
@@ -82,7 +82,7 @@
 .marquee4 {
   font-family: "Cheltenham W01 Roman";
   position: absolute;
-  margin-bottom: 900px;
+  margin-bottom: -50px;
   bottom: 0;
   left: 0;
   font-size: 20px;
@@ -112,7 +112,7 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
+  font-family: "Cheltenham W01 Italic";
   font-size: 24px;
   color: #000000;
   border-width: 4;
@@ -173,7 +173,7 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
+  font-family: "Cheltenham W01 Italic";
   font-size: 40px;
   color: #000000;
   border-width: 4;
@@ -195,7 +195,7 @@
   height:200px;
   width:400px;
   font-family: "Cheltenham W01 Roman";
-  font-size: 55px;
+  font-size: 70px;
   color: #000000;
   border-width: 4;
   animation: marquee 11s linear infinite;
@@ -204,7 +204,7 @@
 .marquee10 {
   font-family: "Cheltenham W01 Roman";
   position: absolute;
-  margin-bottom: 300px;
+  margin-bottom: 270px;
   bottom: 0;
   left: 0;
   font-size: 20px;
@@ -218,7 +218,7 @@
   font-size: 18px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 8s linear infinite;
 }
 
 .marquee11 {
@@ -234,8 +234,8 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
-  font-size: 18px;
+  font-family: "Cheltenham W01 Italic";
+  font-size: 24px;
   color: #000000;
   border-width: 4;
   animation: marquee 15s linear infinite;
@@ -244,7 +244,7 @@
 .marquee12 {
   font-family: "Cheltenham W01 Roman";
   position: absolute;
-  margin-bottom: 400px;
+  margin-bottom: 380px;
   bottom: 0;
   left: 0;
   font-size: 20px;
@@ -255,7 +255,7 @@
   height:200px;
   width:400px;
   font-family: "Cheltenham W01 Roman";
-  font-size: 18px;
+  font-size: 24px;
   color: #000000;
   border-width: 4;
   animation: marquee 15s linear infinite;
@@ -284,7 +284,7 @@
 .marquee14 {
   font-family: "Cheltenham W01 Italic";
   position: absolute;
-  margin-bottom: 1000px;
+  margin-bottom: 50px;
   bottom: 0;
   left: 0;
   font-size: 20px;
@@ -294,7 +294,7 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
+  font-family: "Cheltenham W01 Italic";
   font-size: 18px;
   color: #000000;
   border-width: 4;
@@ -304,7 +304,7 @@
 .marquee15 {
   font-family: "Cheltenham W01 Roman";
   position: absolute;
-  margin-bottom: 800px;
+  margin-bottom: -20px;
   bottom: 0;
   left: 0;
   font-size: 20px;
@@ -315,9 +315,10 @@
   height:200px;
   width:400px;
   font-family: "Cheltenham W01 Roman";
-  font-size: 18px;
+  font-size: 50px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 5s linear infinite;
+  animation-direction: reverse;
 }
 
