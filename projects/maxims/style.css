@@ -233,12 +233,12 @@
   width: 100%;
   white-space: nowrap;
   height:200px;
-  width:400px;
+  width:100%;
   font-family: "Cheltenham W01 Italic";
   font-size: 24px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 20s linear infinite;
 }
 
 .marquee12 {
@@ -313,12 +313,12 @@
   width: 100%;
   white-space: nowrap;
   height:200px;
-  width:400px;
+  width: 100%;
   font-family: "Cheltenham W01 Roman";
   font-size: 50px;
   color: #000000;
   border-width: 4;
-  animation: marquee 5s linear infinite;
+  animation: marquee 11s linear infinite;
   animation-direction: reverse;
 }
 
