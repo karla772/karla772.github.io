@@ -13,27 +13,34 @@
 @keyframes marquee {
   0%   { transform: translate(0, 0); }
   100% { transform: translate(-100%, 0); }
+  0%   {left: 0%;}
+    50%  {left: 100%;}
+    100% {left: 0%;}
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
 }
 
 .marquee1 {
   font-family:"Cheltenham W01 Roman";
-  position: absolute;
   margin-top: 80px;
   bottom: 20;
   left: 0;
   right: 0;
   font-size: 20px;
-  line-height: 30px;
   height: 30px;
+  line-height: 30px;
   width: 100%;
   white-space: nowrap;
   height: 200px;
   width: 100%;
-  font-family: "Cheltenham W01 Roman";
   font-size: 55px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 22s linear infinite;
 }
 
 .marquee2 {
@@ -49,11 +56,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
   font-size: 18px;
   color: #000000;
   border-width: 4;
-  animation: marquee 10s linear infinite;
+  animation: marquee 17s linear infinite;
   animation-direction: reverse;
 }
 
@@ -71,11 +77,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
   font-size: 24px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 21s linear infinite;
   animation-direction: reverse;
 }
 
@@ -92,11 +97,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
   font-size: 18px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 19s linear infinite;
 }
 
 .marquee5 {
@@ -112,11 +116,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Italic";
   font-size: 24px;
   color: #000000;
   border-width: 4;
-  animation: marquee 17s linear infinite;
+  animation: marquee 25s linear infinite;
   animation-direction: reverse;
 }
 
@@ -137,7 +140,7 @@
   font-size: 30px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 28s linear infinite;
 }
 
 .marquee7 {
@@ -157,7 +160,7 @@
   font-size: 24px;
   color: #000000;
   border-width: 4;
-  animation: marquee 10s linear infinite;
+  animation: marquee 18s linear infinite;
 }
 
 .marquee8 {
@@ -177,7 +180,7 @@
   font-size: 40px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 22s linear infinite;
   animation-direction: reverse;
 }
 
@@ -198,7 +201,7 @@
   font-size: 70px;
   color: #000000;
   border-width: 4;
-  animation: marquee 11s linear infinite;
+  animation: marquee 18s linear infinite;
 }
 
 .marquee10 {
@@ -218,7 +221,7 @@
   font-size: 18px;
   color: #000000;
   border-width: 4;
-  animation: marquee 8s linear infinite;
+  animation: marquee 17s linear infinite;
 }
 
 .marquee11 {
@@ -234,11 +237,10 @@
   white-space: nowrap;
   height:200px;
   width:100%;
-  font-family: "Cheltenham W01 Italic";
   font-size: 24px;
   color: #000000;
   border-width: 4;
-  animation: marquee 20s linear infinite;
+  animation: marquee 28s linear infinite;
 }
 
 .marquee12 {
@@ -254,11 +256,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
   font-size: 24px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 20s linear infinite;
 }
 
 .marquee13 {
@@ -274,11 +275,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Roman";
   font-size: 18px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 25s linear infinite;
 }
 
 .marquee14 {
@@ -294,11 +294,10 @@
   white-space: nowrap;
   height:200px;
   width:400px;
-  font-family: "Cheltenham W01 Italic";
   font-size: 18px;
   color: #000000;
   border-width: 4;
-  animation: marquee 15s linear infinite;
+  animation: marquee 30s linear infinite;
 }
 
 .marquee15 {
@@ -314,11 +313,10 @@
   white-space: nowrap;
   height:200px;
   width: 100%;
-  font-family: "Cheltenham W01 Roman";
   font-size: 50px;
   color: #000000;
   border-width: 4;
-  animation: marquee 11s linear infinite;
+  animation: marquee 18s linear infinite;
   animation-direction: reverse;
 }
 
