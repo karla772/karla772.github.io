@@ -48,11 +48,24 @@ console.log(fullName[1].length);
 // if (hour >= 19 && hour < 22 ) {
 //   console.log('Its between 7pm and 9:40pm');
 // } else if {
-//   console.log()
+//   console.log('It is not between 7pm and 9:40pm);
 // };
 
 // var today = Date();
 // console.log('Today is')
+
+var arrayFood = ['sushi', 'pizza', 'noodles'];
+console.log(arrayFood);
+
+var arrayAnimals = ['cats', 'dogs', 'raccoons'];
+console.log(arrayAnimals);
+
+var arrayPlaces = ['my room', 'Saint Marks Place', 'Central Park']
+console.log(arrayPlaces);
+
+var arrayPokemon = ['pikachu', ]
+
+
 
 
 
