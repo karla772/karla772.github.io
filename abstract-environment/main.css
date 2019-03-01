@@ -1,0 +1,26 @@
+@keyframes spinType {
+  0% {
+    transform: rotate(0.5turn);
+  }
+  60% {
+    transform: rotate(0.7turn);
+  }
+  100% {
+    transform: rotate(1turn);
+  }
+}
+
+.img1 {
+  height: 500px;
+  animation: img1Spin 5s ease-in-out infinite;
+}
+
+.img2 {
+  height: 500px;
+  animation: img1Spin 5s ease-in-out infinite;
+}
+
+.img3 {
+  height: 500px;
+  animation: img1Spin 5s ease-in-out infinite;
+}
