@@ -1,4 +1,10 @@
-@keyframes spinType {
+.container {
+  display:fex;
+  flex-direction: row;
+  align-items: center;
+}
+  
+  @keyframes spinType {
   0% {
     transform: rotate(0.5turn);
   }
@@ -10,12 +16,12 @@
   }
 }
 
-.img1 {
+div.img1 {
   height: 500px;
-  animation: img1Spin 5s ease-in-out infinite;
+  animation: spinType 5s ease-in-out infinite;
 }
 
-.img2 {
+div.img2 {
   height: 500px;
   animation: img1Spin 5s ease-in-out infinite;
 }
