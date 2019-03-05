@@ -17,17 +17,17 @@
   }
 }
 
-div.img1 {
+img1 {
   height: 500px;
   animation: spinType 5s ease-in-out infinite;
 }
 
-div.img2 {
+img2 {
   height: 500px;
-  animation: img1Spin 5s ease-in-out infinite;
+  animation: spinType 5s ease-in-out infinite;
 }
 
-.img3 {
+img3 {
   height: 500px;
-  animation: img1Spin 5s ease-in-out infinite;
+  animation: spinType 5s ease-in-out infinite;
 }
