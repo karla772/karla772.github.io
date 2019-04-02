@@ -6,9 +6,7 @@ body,
 
   .container1 {
   display: flex; flex-direction: row; justify-content: space-around; align-items: center;
-  padding: 20px;
-  height: 40%;
-  
+  padding: 0px;
 }
 
 .myex {
@@ -18,3 +16,8 @@ body,
 .container2 {
   display: flex; flex-direction: row; justify-content: space-around; align-items: center;
 }
+
+.churchsex {
+  size: 50%;
+}
+
