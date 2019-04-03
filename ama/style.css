@@ -64,3 +64,15 @@ body,
 }
 
 
+
+
+
+
+
+
+div {
+  img: url("./assets/bestfriend.jpg");
+}
+div:hover {
+  img: url("./assets/fold3.jpg");
+}

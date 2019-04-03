@@ -1,4 +1,5 @@
-$(function() {
+$(function(moveClock) {
+  var $shape = $('#clock-text');
   var $shape = $('#shape');
   var $hour = $('#hour');
   var $minute = $('#minute');
@@ -12,12 +13,14 @@ $(function() {
     var ms = date.getMilliseconds();
     var clockUpdateSpeed = 30; // speed in milliseconds
 
-    $shape (h + ":" + m + ":" + s + ":" + ms);
+    $shape.html (h + ":" + m + ":" + s + ":" + ms);
     $hour.css('transform', 'rotate(' + (360/24 * h) + 'deg)');
     $minute.css('transform', 'rotate(' + (360/60 * m) + 'deg)');
     $second.css('transform', 'rotate(' + (360/60 * s) + 'deg)');
 
     setTimeout(updateClock, clockUpdateSpeed);
+
+    console.log("clock moved!")
   }
 
   updateClock();
