@@ -1,0 +1,85 @@
+html,
+body,
+.container1 {
+  height: 100%;
+}
+
+  .container1 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  padding: 0px;
+  height: 300px;
+}
+
+.gif {
+  width: 300px;
+}
+.myex {
+ width: 300px;
+}
+
+.smells {
+  width: 300px;
+}
+
+.container2 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  height: 300px;
+}
+
+.churchsex {
+  width: 300px;
+}
+
+.drugproblem {
+  width: 300px;
+}
+
+.daydream {
+  width: 300px;
+}
+
+.nailpolish {
+  width: 300px;
+}
+
+.container3 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  height: 300px;
+}
+
+.capitalism {
+  width: 300px;
+}
+
+.insecurities {
+  width: 300px;
+}
+
+.fold3 {
+  width: 300px;
+}
+
+.ramen {
+  width: 300px;
+}
+
+.bestfriend {
+  width: 300px;
+}
+
+.my-img {
+  width: 300px;
+}
+
+
+
+
+
+
+
+div {
+  img: url("./assets/fold3.jpg");
+}
+div:hover {
+  img: url("./assets/bestfriend.jpg");
+}
