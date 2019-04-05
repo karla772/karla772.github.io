@@ -82,7 +82,7 @@ img {
 }
 
 .image-set {
-  height: 220px;
+  height: 200px;
   width: 250px;
 }
 
@@ -200,7 +200,7 @@ div:hover {
 
 .image-set {
   width: 250px;
-  height: 250px;
+  height: 180px;
 }
 
 .image-set:hover .image {
