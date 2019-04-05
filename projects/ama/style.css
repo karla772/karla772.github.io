@@ -153,6 +153,27 @@ img {
   width: 300px;
 }
 
+.container8 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  height: 300px;
+}
+
+.premonition {
+  width: 300px;
+}
+
+.communicate {
+  width: 300px;
+}
+
+.fold2 {
+  width: 300px;
+}
+
+.run {
+  width: 300px;
+}
+
 
 
 
