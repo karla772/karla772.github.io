@@ -90,6 +90,10 @@ img {
   width: 300px;
 }
 
+.mind {
+  width: 300px;
+}
+
 .months {
   width: 300px;
 }
@@ -195,7 +199,8 @@ div:hover {
 }
 
 .image-set {
-  width: 300px;
+  width: 250px;
+  height: 250px;
 }
 
 .image-set:hover .image {
