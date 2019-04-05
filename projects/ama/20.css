@@ -1,0 +1,13 @@
+.container {
+  display: flex; flex-direction: row; justify-content: space-around;
+}
+
+  .gif {
+    padding-top: 50px;
+  width: 300px;
+}
+
+.niceday {
+  width: 900px;
+  padding-top: 50px;
+}
