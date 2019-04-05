@@ -96,6 +96,63 @@ img {
   width: 300px;
 }
 
+.container5 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  max-height: 300px;
+}
+.smells {
+  width: 300px;
+}
+
+.fault {
+  width:300px;
+}
+
+.crazy {
+  width: 300px;
+}
+
+.newton {
+  width: 300px;
+}
+
+
+
+.container6 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  height: 300px;
+}
+
+.niceday {
+  width: 300px;
+}
+
+.shell {
+  width: 300px;
+}
+
+.okay {
+  width: 300px;
+}
+
+
+.container7 {
+  display: flex; flex-direction: row; justify-content: space-around; align-items: center;
+  height: 300px;
+}
+
+.decentered {
+  width: 300px;
+}
+
+.nightmares {
+  width: 300px;
+}
+
+.better {
+  width: 300px;
+}
+
 
 
 
