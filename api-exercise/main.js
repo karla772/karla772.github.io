@@ -14,7 +14,7 @@ $.get('https://api.openweathermap.org/data/2.5/weather?zip=10003&appid=0a1f10e14
   console.log('temp', temp);
 
   var icon = data.weather[0].icon;
-  var image = '<img src="./assets/' + icon + '.gif">';
+  var image = '<img src="./assets/images' + icon + '.gif">';
   console.log(icon);
 
 
