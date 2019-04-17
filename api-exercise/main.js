@@ -1,4 +1,4 @@
-$.get('http://api.openweathermap.org/data/2.5/weather?zip=10003&appid=0a1f10e1496e0fb16bdc8e0d78940ea5', function(data) {
+$.get('https://api.openweathermap.org/data/2.5/weather?zip=10003&appid=0a1f10e1496e0fb16bdc8e0d78940ea5', function(data) {
   // The get request fires a callback function when the API request finishes
   console.log(data);
   window.data
