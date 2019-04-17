@@ -1,20 +1,24 @@
 
 {
-  "adjective1": "",
-  "adjective2": "",
-  "artSupply": "",
-  "computerSoftware": "",
-  "websiteName": "",
-  "artistName": "",
-  "celebrityName": "",
-  "noun1": "",
-  "noun2": "",
-  "pluralNoun1": "",
-  "pluralNoun2": "",
-  "pluralNoun3": "",
-  "verbEndingInIng": "",
-  "placeInNewYork": "",
-  "bodyPart": "",
-  "numbers": [],
-  "foods": []
+  "adjective1": "loud",
+  "adjective2": "speedy",
+  "artSupply": "canvas",
+  "computerSoftware": "powerpoint",
+  "websiteName": "new york times",
+  "artistName": "marina abramovic",
+  "celebrityName": "tom cruise",
+  "noun1": "fork",
+  "noun2": "box",
+  "pluralNoun1": "bottles",
+  "pluralNoun2": "books",
+  "pluralNoun3": "napkins",
+  "verbEndingInIng": "crying",
+  "placeInNewYork": "penn station",
+  "bodyPart": "wrist",
+  "numbers": [3, 7, 11, 17],
+  "foods": [
+    "ramen",
+    "sushi",
+    "noodles"
+  ]
 }
