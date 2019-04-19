@@ -11,10 +11,11 @@ body,
   font-size: 18px;
   padding-left: 80px;
   padding-right: 80px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .img {
   align-content: center;
+  padding: 20px;
 }
