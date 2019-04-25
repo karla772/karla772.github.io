@@ -6,7 +6,7 @@ $.get('https://api.openweathermap.org/data/2.5/weather?zip=10003&appid=0a1f10e14
   var weather = data.weather[0];
   // In this case, the most interesting bit of data is in the weather key
   // Now do something interesting with the data!
-  $('body').html('The weather is ' + weather.description);
+  $('.weather').html('The weather is ' + weather.description);
 
   var temp = data.main.temp;
   var hotKelvin = 316;
@@ -14,9 +14,9 @@ $.get('https://api.openweathermap.org/data/2.5/weather?zip=10003&appid=0a1f10e14
   console.log('temp', temp);
 
   var icon = data.weather[0].icon;
-  var image = '<img src="./assets/images"' + icon + '.gif">';
+  var image = '<img src="./assets/' + icon + '.png">';
   console.log(icon);
 
 
-  $('body').append(image);
+  $('.weather-image').append(image).addClass('icon-' + icon);
 });
