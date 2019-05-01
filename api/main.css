@@ -45,6 +45,15 @@ background-color: black;
   z-index: 1;
 }
 
+.weather-image {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  margin-left: 210px;
+  margin-top: 50px;
+}
+
 .icon {
   display: block;
   position: absolute;
