@@ -1,7 +1,9 @@
 html,
 body {
 background-color: black;
-}
+text-decoration: none;
+} 
+
 
 .top {
   font-family: 'Didot';
