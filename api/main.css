@@ -6,11 +6,13 @@ text-decoration: none;
 
 
 .top {
+  display: block;
   font-family: 'Didot';
   font-size: 24px;
   color: white;
   text-align: center;
   margin-top: 20px;
+  text-decoration: none;
 }
 
 .bottom {
@@ -69,5 +71,9 @@ text-decoration: none;
   align-content: center;
   padding: 50px;
   z-index: 2;
+}
+
+.weather {
+  color: black;
 }
 
