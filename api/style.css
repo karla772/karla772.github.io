@@ -24,3 +24,9 @@ margin-right: 100px;
   padding-bottom: 20px;
 }
 
+.back {
+  position: fixed;
+  left: 25px;
+  top: 500px;
+}
+

@@ -2,15 +2,17 @@ html,
 body {
 background-color: black;
 font-family: Didot;
-color: white;
-text-align: center;
-margin-left: 100px;
-margin-right: 100px;
 }
 
-.head1 {
-  font-family: Didot;
+.archive {
+  display: block;
+  align-content: center;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
+
 
 .container1 {
   display: flex; flex-direction: column; justify-content: space-between; align-items: center;
@@ -18,7 +20,13 @@ margin-right: 100px;
 }
 
 .img {
-  width: 75%;
+  width: 60%;
   padding: 30px;
+}
+
+.back {
+  position: fixed;
+  left: 25px;
+  top: 700px;
 }
 
