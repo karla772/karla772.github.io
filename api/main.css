@@ -60,6 +60,15 @@ text-decoration: none;
   margin-top: 50px;
 }
 
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
 .icon {
   display: block;
   position: absolute;
@@ -72,15 +81,13 @@ text-decoration: none;
   padding: 50px;
   z-index: 2;
   opacity: 0;
+  transition: opacity 2s ease-in;
 
-    -webkit-transition: opacity 2s ease-in;
-       -moz-transition: opacity 2s ease-in;
-        -ms-transition: opacity 2s ease-in;
-         -o-transition: opacity 2s ease-in;
-            transition: opacity 2s ease-in;
-            -webkit-keyframes fadein;
-              from { opacity: 0; }
-              to   { opacity: 1; }
+  animation-name: fadeIn;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
 }
 
 .weather {
